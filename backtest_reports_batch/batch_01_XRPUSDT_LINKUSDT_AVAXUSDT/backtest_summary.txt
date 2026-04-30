@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : XRPUSDT, LINKUSDT, AVAXUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1013.81
+Net PnL         : 13.8067
+Trades          : 526
+Wins / Losses   : 337 / 170
+Win rate        : 64.07%
+Avg pnl/trade   : 0.0262
+Max drawdown    : 0.97%
+Reasons         :
+  - SL_hit: 114
+  - TP2_hit: 4
+  - time_stop: 55
+  - trailing_stop: 353
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_XRPUSDT_LINKUSDT_AVAXUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_XRPUSDT_LINKUSDT_AVAXUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_XRPUSDT_LINKUSDT_AVAXUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_XRPUSDT_LINKUSDT_AVAXUSDT\backtest_by_direction.csv

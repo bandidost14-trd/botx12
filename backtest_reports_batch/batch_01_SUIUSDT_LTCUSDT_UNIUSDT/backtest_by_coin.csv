@@ -1,0 +1,4 @@
+﻿symbol,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+UNIUSDT,175,112,52,64.0,11.904232,0.068024,0.4617,1011.904232,2,38,126,9
+SUIUSDT,185,117,55,63.24,5.567893,0.030097,0.5479,1005.567893,0,34,136,15
+LTCUSDT,169,96,66,56.8,3.611771,0.021371,0.6287,1003.611771,3,39,103,24

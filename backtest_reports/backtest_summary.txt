@@ -1,0 +1,18 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : BTCUSDT, ETHUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1009.49
+Net PnL         : 9.4914
+Trades          : 222
+Wins / Losses   : 133 / 87
+Win rate        : 59.91%
+Avg pnl/trade   : 0.0428
+Max drawdown    : 0.57%
+Reasons         :
+  - SL_hit: 80
+  - TP2_hit: 13
+  - trailing_stop: 129

@@ -1,0 +1,4 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=ETHUSDT | trades=129 | wins=76 | losses=52 | win_rate=58.91 | net_pnl=5.676916 | avg_pnl=0.044007 | max_dd_pct=0.2167 | tp2_hit=6 | sl_hit=35 | trailing_stop=73 | time_stop=15
+symbol=BTCUSDT | trades=93 | wins=48 | losses=44 | win_rate=51.61 | net_pnl=-0.173612 | avg_pnl=-0.001867 | max_dd_pct=0.3203 | tp2_hit=6 | sl_hit=32 | trailing_stop=40 | time_stop=15

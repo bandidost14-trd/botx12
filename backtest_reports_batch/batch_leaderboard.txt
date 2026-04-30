@@ -1,0 +1,3 @@
+BOTX12 BATCH BACKTEST LEADERBOARD
+============================================================
+batch=1 | symbols=1000PEPEUSDT,TONUSDT,ATOMUSDT | trades=523 | win_rate=64.05% | net_pnl=19.7190 | max_dd=0.78%

@@ -1,0 +1,2 @@
+﻿batch_no,symbols,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,summary_txt,by_coin_csv,by_regime_csv
+1,"1000PEPEUSDT,TONUSDT,ATOMUSDT",523,335,169,64.05,19.719026,0.037704,0.7842,1019.719026,backtest_reports_batch\batch_01_1000PEPEUSDT_TONUSDT_ATOMUSDT\backtest_summary.txt,backtest_reports_batch\batch_01_1000PEPEUSDT_TONUSDT_ATOMUSDT\backtest_by_coin.csv,backtest_reports_batch\batch_01_1000PEPEUSDT_TONUSDT_ATOMUSDT\backtest_by_regime.csv

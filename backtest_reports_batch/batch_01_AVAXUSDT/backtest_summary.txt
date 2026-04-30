@@ -1,0 +1,21 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : AVAXUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : None
+End             : None
+Initial balance : 1000.00
+Final balance   : 1000.00
+Net PnL         : 0.0000
+Trades          : 0
+Wins / Losses   : 0 / 0
+Win rate        : 0.00%
+Avg pnl/trade   : 0.0000
+Max drawdown    : 0.00%
+Reasons         :
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_AVAXUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_AVAXUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_AVAXUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_AVAXUSDT\backtest_by_direction.csv

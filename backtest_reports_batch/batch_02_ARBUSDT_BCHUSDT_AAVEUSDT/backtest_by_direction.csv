@@ -1,0 +1,3 @@
+﻿direction,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+SHORT,140,89,35,63.57,9.103653,0.065026,0.2427,1009.103653,0,25,99,16
+LONG,387,235,139,60.72,-11.484338,-0.029675,1.5142,988.515662,1,89,265,32

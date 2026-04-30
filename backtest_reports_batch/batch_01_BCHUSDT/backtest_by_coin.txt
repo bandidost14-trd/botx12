@@ -1,0 +1,3 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=BCHUSDT | trades=444 | wins=305 | losses=132 | win_rate=68.69 | net_pnl=19.047778 | avg_pnl=0.0429 | max_dd_pct=0.3334 | tp2_hit=8 | sl_hit=90 | trailing_stop=298 | time_stop=48

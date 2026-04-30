@@ -1,0 +1,3 @@
+BOTX12 BACKTEST BY REGIME
+========================================
+regime=UNKNOWN | trades=523 | wins=335 | losses=169 | win_rate=64.05 | net_pnl=19.719026 | avg_pnl=0.037704 | max_dd_pct=0.7842 | tp2_hit=4 | sl_hit=104 | trailing_stop=363 | time_stop=52

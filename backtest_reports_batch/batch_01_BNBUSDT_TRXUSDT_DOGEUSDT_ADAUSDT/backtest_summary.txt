@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : BNBUSDT, TRXUSDT, DOGEUSDT, ADAUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1013.36
+Net PnL         : 13.3609
+Trades          : 523
+Wins / Losses   : 322 / 187
+Win rate        : 61.57%
+Avg pnl/trade   : 0.0255
+Max drawdown    : 0.83%
+Reasons         :
+  - SL_hit: 115
+  - TP2_hit: 14
+  - time_stop: 78
+  - trailing_stop: 316
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_BNBUSDT_TRXUSDT_DOGEUSDT_ADAUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_BNBUSDT_TRXUSDT_DOGEUSDT_ADAUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_BNBUSDT_TRXUSDT_DOGEUSDT_ADAUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_BNBUSDT_TRXUSDT_DOGEUSDT_ADAUSDT\backtest_by_direction.csv

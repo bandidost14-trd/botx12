@@ -1,0 +1,5 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=AVAXUSDT | trades=171 | wins=113 | losses=54 | win_rate=66.08 | net_pnl=9.408452 | avg_pnl=0.05502 | max_dd_pct=0.4003 | tp2_hit=1 | sl_hit=36 | trailing_stop=122 | time_stop=12
+symbol=LINKUSDT | trades=174 | wins=109 | losses=58 | win_rate=62.64 | net_pnl=2.9273 | avg_pnl=0.016824 | max_dd_pct=0.4855 | tp2_hit=2 | sl_hit=36 | trailing_stop=115 | time_stop=21
+symbol=XRPUSDT | trades=181 | wins=115 | losses=58 | win_rate=63.54 | net_pnl=1.470989 | avg_pnl=0.008127 | max_dd_pct=0.6603 | tp2_hit=1 | sl_hit=42 | trailing_stop=116 | time_stop=22

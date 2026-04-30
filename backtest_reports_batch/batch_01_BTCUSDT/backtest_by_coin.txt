@@ -1,0 +1,3 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=BTCUSDT | trades=305 | wins=187 | losses=114 | win_rate=61.31 | net_pnl=7.125561 | avg_pnl=0.023362 | max_dd_pct=0.4457 | tp2_hit=11 | sl_hit=84 | trailing_stop=164 | time_stop=46

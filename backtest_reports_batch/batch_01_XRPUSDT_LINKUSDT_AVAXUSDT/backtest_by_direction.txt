@@ -1,0 +1,4 @@
+BOTX12 BACKTEST BY DIRECTION
+========================================
+direction=LONG | trades=389 | wins=261 | losses=118 | win_rate=67.1 | net_pnl=6.957587 | avg_pnl=0.017886 | max_dd_pct=0.9673 | tp2_hit=3 | sl_hit=82 | trailing_stop=267 | time_stop=37
+direction=SHORT | trades=137 | wins=76 | losses=52 | win_rate=55.47 | net_pnl=6.849154 | avg_pnl=0.049994 | max_dd_pct=0.5961 | tp2_hit=1 | sl_hit=32 | trailing_stop=86 | time_stop=18

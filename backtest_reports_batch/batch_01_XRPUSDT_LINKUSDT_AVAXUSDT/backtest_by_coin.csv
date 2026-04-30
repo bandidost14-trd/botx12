@@ -1,0 +1,4 @@
+﻿symbol,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+AVAXUSDT,171,113,54,66.08,9.408452,0.05502,0.4003,1009.408452,1,36,122,12
+LINKUSDT,174,109,58,62.64,2.9273,0.016824,0.4855,1002.9273,2,36,115,21
+XRPUSDT,181,115,58,63.54,1.470989,0.008127,0.6603,1001.470989,1,42,116,22

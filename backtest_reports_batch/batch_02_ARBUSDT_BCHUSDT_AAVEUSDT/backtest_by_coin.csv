@@ -1,0 +1,4 @@
+﻿symbol,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+ARBUSDT,168,103,50,61.31,4.676871,0.027839,0.4241,1004.676871,0,32,123,13
+AAVEUSDT,189,123,58,65.08,-0.447881,-0.00237,0.5996,999.552119,0,38,133,18
+BCHUSDT,170,98,66,57.65,-6.609675,-0.03888,1.0756,993.390325,1,44,108,17

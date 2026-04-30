@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : ARBUSDT, BCHUSDT, AAVEUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 997.62
+Net PnL         : -2.3807
+Trades          : 527
+Wins / Losses   : 324 / 174
+Win rate        : 61.48%
+Avg pnl/trade   : -0.0045
+Max drawdown    : 1.51%
+Reasons         :
+  - SL_hit: 114
+  - TP2_hit: 1
+  - time_stop: 48
+  - trailing_stop: 364
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_02_ARBUSDT_BCHUSDT_AAVEUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_02_ARBUSDT_BCHUSDT_AAVEUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_02_ARBUSDT_BCHUSDT_AAVEUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_02_ARBUSDT_BCHUSDT_AAVEUSDT\backtest_by_direction.csv

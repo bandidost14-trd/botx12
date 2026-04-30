@@ -1,0 +1,4 @@
+﻿symbol,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+APTUSDT,176,120,49,68.18,7.217688,0.04101,0.2622,1007.217688,0,33,133,10
+XLMUSDT,159,87,61,54.72,2.599679,0.01635,0.6331,1002.599679,1,41,94,23
+FETUSDT,182,105,62,57.69,-14.100453,-0.077475,1.5456,985.899547,1,42,130,9

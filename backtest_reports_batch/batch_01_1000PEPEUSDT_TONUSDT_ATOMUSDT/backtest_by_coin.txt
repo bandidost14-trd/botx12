@@ -1,0 +1,5 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=TONUSDT | trades=157 | wins=107 | losses=47 | win_rate=68.15 | net_pnl=9.309821 | avg_pnl=0.059298 | max_dd_pct=0.3621 | tp2_hit=2 | sl_hit=31 | trailing_stop=108 | time_stop=16
+symbol=1000PEPEUSDT | trades=201 | wins=126 | losses=65 | win_rate=62.69 | net_pnl=5.309665 | avg_pnl=0.026416 | max_dd_pct=0.7275 | tp2_hit=1 | sl_hit=32 | trailing_stop=149 | time_stop=19
+symbol=ATOMUSDT | trades=165 | wins=102 | losses=57 | win_rate=61.82 | net_pnl=5.099541 | avg_pnl=0.030906 | max_dd_pct=0.5322 | tp2_hit=1 | sl_hit=41 | trailing_stop=106 | time_stop=17

@@ -1,0 +1,5 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=ARBUSDT | trades=168 | wins=103 | losses=50 | win_rate=61.31 | net_pnl=4.676871 | avg_pnl=0.027839 | max_dd_pct=0.4241 | tp2_hit=0 | sl_hit=32 | trailing_stop=123 | time_stop=13
+symbol=AAVEUSDT | trades=189 | wins=123 | losses=58 | win_rate=65.08 | net_pnl=-0.447881 | avg_pnl=-0.00237 | max_dd_pct=0.5996 | tp2_hit=0 | sl_hit=38 | trailing_stop=133 | time_stop=18
+symbol=BCHUSDT | trades=170 | wins=98 | losses=66 | win_rate=57.65 | net_pnl=-6.609675 | avg_pnl=-0.03888 | max_dd_pct=1.0756 | tp2_hit=1 | sl_hit=44 | trailing_stop=108 | time_stop=17

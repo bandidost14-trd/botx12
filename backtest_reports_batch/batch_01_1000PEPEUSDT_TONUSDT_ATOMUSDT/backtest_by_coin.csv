@@ -1,0 +1,4 @@
+﻿symbol,trades,wins,losses,win_rate,net_pnl,avg_pnl,max_dd_pct,final_balance,tp2_hit,sl_hit,trailing_stop,time_stop
+TONUSDT,157,107,47,68.15,9.309821,0.059298,0.3621,1009.309821,2,31,108,16
+1000PEPEUSDT,201,126,65,62.69,5.309665,0.026416,0.7275,1005.309665,1,32,149,19
+ATOMUSDT,165,102,57,61.82,5.099541,0.030906,0.5322,1005.099541,1,41,106,17

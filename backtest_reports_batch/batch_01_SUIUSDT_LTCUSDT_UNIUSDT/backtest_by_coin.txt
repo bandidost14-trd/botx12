@@ -1,0 +1,5 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=UNIUSDT | trades=175 | wins=112 | losses=52 | win_rate=64.0 | net_pnl=11.904232 | avg_pnl=0.068024 | max_dd_pct=0.4617 | tp2_hit=2 | sl_hit=38 | trailing_stop=126 | time_stop=9
+symbol=SUIUSDT | trades=185 | wins=117 | losses=55 | win_rate=63.24 | net_pnl=5.567893 | avg_pnl=0.030097 | max_dd_pct=0.5479 | tp2_hit=0 | sl_hit=34 | trailing_stop=136 | time_stop=15
+symbol=LTCUSDT | trades=169 | wins=96 | losses=66 | win_rate=56.8 | net_pnl=3.611771 | avg_pnl=0.021371 | max_dd_pct=0.6287 | tp2_hit=3 | sl_hit=39 | trailing_stop=103 | time_stop=24

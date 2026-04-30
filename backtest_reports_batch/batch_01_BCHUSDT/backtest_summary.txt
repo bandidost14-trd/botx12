@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : BCHUSDT
+Data dir        : C:\BacktestDownloader\btc_bch_retest_setC\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1019.05
+Net PnL         : 19.0478
+Trades          : 444
+Wins / Losses   : 305 / 132
+Win rate        : 68.69%
+Avg pnl/trade   : 0.0429
+Max drawdown    : 0.33%
+Reasons         :
+  - SL_hit: 90
+  - TP2_hit: 8
+  - time_stop: 48
+  - trailing_stop: 298
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_BCHUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_BCHUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_BCHUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_BCHUSDT\backtest_by_direction.csv

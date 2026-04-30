@@ -1,0 +1,6 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=BNBUSDT | trades=138 | wins=85 | losses=49 | win_rate=61.59 | net_pnl=11.089876 | avg_pnl=0.080361 | max_dd_pct=0.1917 | tp2_hit=6 | sl_hit=28 | trailing_stop=77 | time_stop=27
+symbol=DOGEUSDT | trades=176 | wins=109 | losses=62 | win_rate=61.93 | net_pnl=3.205601 | avg_pnl=0.018214 | max_dd_pct=0.7854 | tp2_hit=3 | sl_hit=33 | trailing_stop=115 | time_stop=25
+symbol=ADAUSDT | trades=155 | wins=97 | losses=54 | win_rate=62.58 | net_pnl=0.276309 | avg_pnl=0.001783 | max_dd_pct=0.4615 | tp2_hit=2 | sl_hit=39 | trailing_stop=102 | time_stop=12
+symbol=TRXUSDT | trades=54 | wins=31 | losses=22 | win_rate=57.41 | net_pnl=-1.210924 | avg_pnl=-0.022425 | max_dd_pct=0.2735 | tp2_hit=3 | sl_hit=15 | trailing_stop=22 | time_stop=14

@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : SUIUSDT, LTCUSDT, UNIUSDT
+Data dir        : C:\BacktestDownloader\binance_backtest_dataset\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1021.08
+Net PnL         : 21.0839
+Trades          : 529
+Wins / Losses   : 325 / 173
+Win rate        : 61.44%
+Avg pnl/trade   : 0.0399
+Max drawdown    : 0.99%
+Reasons         :
+  - SL_hit: 111
+  - TP2_hit: 5
+  - time_stop: 48
+  - trailing_stop: 365
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_SUIUSDT_LTCUSDT_UNIUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_SUIUSDT_LTCUSDT_UNIUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_SUIUSDT_LTCUSDT_UNIUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_SUIUSDT_LTCUSDT_UNIUSDT\backtest_by_direction.csv

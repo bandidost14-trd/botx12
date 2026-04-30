@@ -1,0 +1,25 @@
+BOTX12 BACKTEST SUMMARY
+============================================================
+Symbols         : BTCUSDT
+Data dir        : C:\BacktestDownloader\btc_bch_retest_setC\extracted_csv
+Start           : 2024-01-01
+End             : 2025-12-31
+Initial balance : 1000.00
+Final balance   : 1007.13
+Net PnL         : 7.1256
+Trades          : 305
+Wins / Losses   : 187 / 114
+Win rate        : 61.31%
+Avg pnl/trade   : 0.0234
+Max drawdown    : 0.45%
+Reasons         :
+  - SL_hit: 84
+  - TP2_hit: 11
+  - time_stop: 46
+  - trailing_stop: 164
+
+Artifacts       :
+  - Trade log      : backtest_reports_batch\batch_01_BTCUSDT\backtest_trades.csv
+  - By coin        : backtest_reports_batch\batch_01_BTCUSDT\backtest_by_coin.csv
+  - By regime      : backtest_reports_batch\batch_01_BTCUSDT\backtest_by_regime.csv
+  - By direction   : backtest_reports_batch\batch_01_BTCUSDT\backtest_by_direction.csv

@@ -1,0 +1,5 @@
+BOTX12 BACKTEST BY COIN
+========================================
+symbol=APTUSDT | trades=176 | wins=120 | losses=49 | win_rate=68.18 | net_pnl=7.217688 | avg_pnl=0.04101 | max_dd_pct=0.2622 | tp2_hit=0 | sl_hit=33 | trailing_stop=133 | time_stop=10
+symbol=XLMUSDT | trades=159 | wins=87 | losses=61 | win_rate=54.72 | net_pnl=2.599679 | avg_pnl=0.01635 | max_dd_pct=0.6331 | tp2_hit=1 | sl_hit=41 | trailing_stop=94 | time_stop=23
+symbol=FETUSDT | trades=182 | wins=105 | losses=62 | win_rate=57.69 | net_pnl=-14.100453 | avg_pnl=-0.077475 | max_dd_pct=1.5456 | tp2_hit=1 | sl_hit=42 | trailing_stop=130 | time_stop=9
